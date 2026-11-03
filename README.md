@@ -2,8 +2,8 @@
 
 An interactive **Computational Pharmacology & Cheminformatics Virtual Laboratory** built with **Python**, **Streamlit**, and **RDKit**. Designed for pharmacy, medicinal chemistry, and life sciences education.
 
-> **Designed by:** Abinash Yadav  
-> **Registration Number:** RA2611026050303  
+> **Designed by:** Anuj Yadav  
+> **Registration Number:** RA2611026050309 
 > **Institution:** Department of Pharmacology & Computational Chemistry
 
 Inspired by real-world cheminformatics workflows, **Pharmacol Virtual Lab** enables students and researchers to inspect pharmaceutical drug structures, calculate physicochemical descriptors, explore interactive 2D and 3D conformations, perform QSPR analysis, evaluate Lipinski's Rule of 5, test knowledge via assessments, and export automated laboratory reports.
